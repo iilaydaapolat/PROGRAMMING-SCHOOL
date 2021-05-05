@@ -1,0 +1,24 @@
+.navbar .nav-link {
+    font-size: 20px;
+    padding-left: 0.7rem !important;
+    padding-right: 0.7rem !important;
+}
+.navbar .navbar-item.active {
+    font-weight: bold;
+   
+    border-bottom: 3px solid wheat;
+}
+.carousel-item{
+    height: 450px;
+}
+
+
+#home-heading{
+    position: relative;
+    min-height: 200px;
+    background-image:url('img/bg1.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: 50% 54px;
+}
